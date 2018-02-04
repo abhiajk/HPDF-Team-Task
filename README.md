@@ -45,7 +45,7 @@ For more details: http://nativebase.io/docs/v0.5.13/getting-started
 
 4)install react-native maps. Run
 
- npm install react-native-maps --save
+ *npm install react-native-maps --save*
 
 5)inside your project folder run 
 
