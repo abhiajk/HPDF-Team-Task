@@ -21,13 +21,13 @@ This project is bootstrapped with Create-React-Native-App(CRNA).
 Follow the below steps to setup this app in your PC.
 1) Ensure that you have the following installed in your PC.
 
--nodejs with npm >= 5 
+-Nodejs with npm >= 5 
 
--expo client in your android phone. Follow link: https://expo.io/ or you can directly download it from playstore.
+-Expo client in your android phone. Follow link: https://expo.io/ or you can directly download it from playstore.
 
--install CRNA. Run the following command in your terminal: 
+-Install CRNA. Run the following command in your terminal: 
 
- npm install -g create-react-native-app. 
+ **npm install -g create-react-native-app** 
 
  For more details:https://facebook.github.io/react-native/docs/getting-started.html
 
@@ -35,21 +35,21 @@ Follow the below steps to setup this app in your PC.
 
 2)git clone this repository. Note: Windows users are recommended to use git Bash for this.
 
-3)change the directory to this project folder in your terminal.
+3)Change the directory to this project folder in your terminal.
 
-3)install native base. Run 
+3)Install native base. Run 
 
-npm install native-base --save. 
+**npm install native-base --save**
 
 For more details: http://nativebase.io/docs/v0.5.13/getting-started
 
-4)install react-native maps. Run
+4)Install react-native maps. Run
 
- *npm install react-native-maps --save*
+ **npm install react-native-maps --save**
 
-5)inside your project folder run 
+5)Inside your project folder run 
 
- npm start
+ **npm start**
  
  A QR code will appear on your terminal screen.
 
@@ -75,15 +75,15 @@ Follow the below steps.
 
 a)run: 
 
-cd C:\Program Files\Java\jdk1.8.0_151\bin
+**cd C:\Program Files\Java\jdk1.8.0_151\bin**
 
 b)Inside this directory run: 
 
-keytool -list -v -keystore C:\Users\Your_Username\.android\debug.keystore 
+**keytool -list -v -keystore C:\Users\Your_Username\.android\debug.keystore**
 
 Password is most probably: 'android'
 
-(Note: the keystore name might change. Also the 'Your_Username' characters may hinder the process. In that case copy '.android' file outside 'Your_Username' and run: keytool -list -v -keystore C:\Users\.android\debug.keystore. Also note down the 'keystore alias' name)
+(Note: the keystore name might change. Also the 'Your_Username' characters may hinder the process. In that case copy '.android' file outside 'Your_Username' and run: **keytool -list -v -keystore C:\Users\.android\debug.keystore**. Also note down the 'keystore alias' name)
 
 -Copy the API key (the first text input on the page) into app.json under the android.config.googleMaps.apiKey.
 
