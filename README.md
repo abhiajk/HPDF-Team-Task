@@ -10,6 +10,8 @@ The app has two buttons and two rows to enter Source/starting point and destinat
 
 The second button works the following way -
 
+To get distance and time between two locations. Enter source and destination and press this button. A tab will be visible in bottom of screen displaying distance between points and time of travel.
+
 To get location name for a set of coordinate: Enter latitude in first row and longitude in second row. onPress the get-distance button an alert box will pop up with location name.
 
 To get coordinates for a location name: Enter location name in anyone of two rows and press the button. An alert box pops up with coordinates.
@@ -29,13 +31,17 @@ Follow the below steps to setup this app in your PC.
 
  For more details:https://facebook.github.io/react-native/docs/getting-started.html
 
--Java jdk. link: http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html.(Java required to build .apk file)
+-Java jdk. link: http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html. (Java required to build .apk file)
 
 2)git clone this repository. Note: Windows users are recommended to use git Bash for this.
 
 3)change the directory to this project folder in your terminal.
 
-3)install native base. Run npm install native-base --save. For more details: http://nativebase.io/docs/v0.5.13/getting-started
+3)install native base. Run 
+
+npm install native-base --save. 
+
+For more details: http://nativebase.io/docs/v0.5.13/getting-started
 
 4)install react-native maps. Run
 
@@ -43,7 +49,7 @@ Follow the below steps to setup this app in your PC.
 
 5)inside your project folder run 
 
- npm start from the terminal.
+ npm start
  
  A QR code will appear on your terminal screen.
 
