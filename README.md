@@ -18,7 +18,8 @@ To get coordinates for a location name: Enter location name in anyone of two row
 
 # Steps to setup the app in your PC
 This project is bootstrapped with Create-React-Native-App(CRNA).Follow the below steps to setup this app in your PC.
-1) Ensure that you have the following installed in your PC.
+
+1)Ensure that you have the following installed in your PC.
 
 -Nodejs with npm >= 5 
 
@@ -36,27 +37,27 @@ This project is bootstrapped with Create-React-Native-App(CRNA).Follow the below
 
 3)Change the directory to this project folder in your terminal.
 
-3)Install native base. Run 
+4)Install native base. Run 
 
 **npm install native-base --save**
 
 For more details: http://nativebase.io/docs/v0.5.13/getting-started
 
-4)Install react-native maps. Run
+5)Install react-native maps. Run
 
  **npm install react-native-maps --save**
 
-5)Inside your project folder run 
+6)Inside your project folder run 
 
  **npm start**
  
  A QR code will appear on your terminal screen.
 
-6)Open expo app in your android phone and scan this QR code. You may need to set up a rule in your windows firewall allowing access to port 19000 and 19001 as expo runs on this port.
+7)Open expo app in your android phone and scan this QR code. You may need to set up a rule in your windows firewall allowing access to port 19000 and 19001 as expo runs on this port.
 
-7)The map and corresponding UI will appear on your phone screen.
+8)The map and corresponding UI will appear on your phone screen.
 
-8)To edit the code open App.js in the project directory(Preferrably in Atom editor) and make necessary changes and save the file. The changes will be hot reloaded.
+9)To edit the code open App.js in the project directory(Preferrably in Atom editor) and make necessary changes and save the file. The changes will be hot reloaded.
 
 # Steps to build an .apk file
 Follow the below steps.
