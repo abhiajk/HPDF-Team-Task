@@ -1,5 +1,5 @@
 # HPDF-Team-Task
-Team 49 google geocoding app
+Team 49 google geocoding app.
 
 This is a geocoding React-Native app that was developed as part of Hasura Product Developement Fellowship(HPDF) by Team 49.
 
@@ -17,8 +17,7 @@ To get location name for a set of coordinate: Enter latitude in first row and lo
 To get coordinates for a location name: Enter location name in anyone of two rows and press the button. An alert box pops up with coordinates.
 
 # Steps to setup the app in your PC
-This project is bootstrapped with Create-React-Native-App(CRNA).
-Follow the below steps to setup this app in your PC.
+This project is bootstrapped with Create-React-Native-App(CRNA).Follow the below steps to setup this app in your PC.
 1) Ensure that you have the following installed in your PC.
 
 -Nodejs with npm >= 5 
@@ -79,7 +78,7 @@ a)run:
 
 b)Inside this directory run: 
 
-**keytool -list -v -keystore C:\Users\Your_Username\.android\debug.keystore**
+**keytool -list -v -keystore C:\Users\Your_Username\ .android\debug.keystore**
 
 Password is most probably: 'android'
 
