@@ -1,7 +1,7 @@
 # HPDF-Team-Task
 Team 49 google geocoding app
 
-This is a geocoding React-Native app that was developed as part Hasura Product Developement Fellowship(HPDF) by Team 49.
+This is a geocoding React-Native app that was developed as part of Hasura Product Developement Fellowship(HPDF) by Team 49.
 
 The Google Drive link to the .apk file is: https://drive.google.com/file/d/1HdCJ3Cb03JdrhrUwSRBpB19-12C3rS0t/view?usp=sharing
 
