@@ -82,7 +82,7 @@ b)Inside this directory run:
 
 Password is most probably: 'android'
 
-(Note: the keystore name might change. Also the 'Your_Username' characters may hinder the process. In that case copy '.android' file outside 'Your_Username' and run: **keytool -list -v -keystore C:\Users\.android\debug.keystore**. Also note down the 'keystore alias' name)
+(Note: the keystore name might change. Also the 'Your_Username' characters may hinder the process. In that case copy '.android' file outside 'Your_Username' and run: **keytool -list -v -keystore C:\Users\ .android\debug.keystore**. Also note down the 'keystore alias' name)
 
 -Copy the API key (the first text input on the page) into app.json under the android.config.googleMaps.apiKey.
 
