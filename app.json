@@ -1,10 +1,10 @@
 {
   "expo": {
   
-   "name": "T49_HASURA_React-Native",
-    "icon": "./icon_image/app-icon.png",
+   "name": "HPDF_T49_React-Native",
+    "icon": "./icon_image/app_icon.png",
     "version": "1.0.0",
-    "slug": "your-app-hpdfhasura",
+    "slug": "your-app-hasura",
   "sdkVersion": "23.0.0"
  ,
    "ios": {
@@ -14,7 +14,7 @@
       "package": "com.hpdf.hasurateam49",
 	"config": { 
         "googleMaps": { 
-       "apiKey": "" 
+       "apiKey": "AIzaSyBKz3sdRBhEuJCeECJepe4oWoXb7pdRQik" 
     }
    }
 
