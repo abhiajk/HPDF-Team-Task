@@ -14,7 +14,7 @@
       "package": "com.hpdf.hasurateam49",
 	"config": { 
         "googleMaps": { 
-       "apiKey": "AIzaSyBKz3sdRBhEuJCeECJepe4oWoXb7pdRQik" 
+       "apiKey": "Your_API_Key" 
     }
    }
 
